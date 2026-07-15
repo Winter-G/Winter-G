@@ -138,8 +138,8 @@ A Java-based inventory management application.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Winter-G&show_icons=true&hide_border=true&theme=transparent&title_color=8e7cc2&text_color=e6edf3&icon_color=9bb7d4&bg_color=0d1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winter-G&layout=compact&hide_border=true&theme=transparent&title_color=8e7cc2&text_color=e6edf3&icon_color=9bb7d4&bg_color=0d1117" width="40%"/>
+  <img src="https://winter-github-stats.vercel.app/api?username=Winter-G&show_icons=true&hide_border=true&theme=transparent&title_color=8e7cc2&text_color=e6edf3&icon_color=9bb7d4&bg_color=0d1117" width="48%"/>
+  <img src="https://winter-github-stats.vercel.app/api/top-langs/?username=Winter-G&layout=compact&hide_border=true&theme=transparent&title_color=8e7cc2&text_color=e6edf3&icon_color=9bb7d4&bg_color=0d1117" width="40%"/>
 </p>
 
 <p align="center">
