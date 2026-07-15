@@ -135,6 +135,19 @@ A Java-based inventory management application.
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Winter-G&show_icons=true&hide_border=true&theme=transparent&title_color=8e7cc2&text_color=e6edf3&icon_color=9bb7d4&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winter-G&layout=compact&hide_border=true&theme=transparent&title_color=8e7cc2&text_color=e6edf3&icon_color=9bb7d4&bg_color=0d1117" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Winter-G&bg_color=0d1117&color=e6edf3&line=8e7cc2&point=9bb7d4&area=true&hide_border=true"/>
+</p>
+
+---
+
 <p align="center">
   <i>"Code, learn, improve — one commit at a time."</i>
 </p>
