@@ -18,7 +18,7 @@
 
 - <img src="https://img.shields.io/badge/✦-8e7cc2?style=flat-square&labelColor=0d1117"/> Software Engineering undergraduate at The Open University of Sri Lanka
 - <img src="https://img.shields.io/badge/◇-9bb7d4?style=flat-square&labelColor=0d1117"/> Software Development Trainee working with enterprise-level systems
-- <img src="https://img.shields.io/badge/▣-e6edf3?style=flat-square&labelColor=0d1117"/> Interested in frontend development, backend systems and software quality assurance
+- <img src="https://img.shields.io/badge/▣-e6edf3?style=flat-square&labelColor=0d1117"/> Interested in software quality assurance, backend systems and frontend development
 - <img src="https://img.shields.io/badge/◇-8e7cc2?style=flat-square&labelColor=0d1117"/> Enjoy creating clean interfaces and improving user experiences
 - <img src="https://img.shields.io/badge/◆-9bb7d4?style=flat-square&labelColor=0d1117"/> Usually found debugging, learning or trying to understand why the code worked
 
@@ -127,7 +127,7 @@ A Java-based inventory management application.
 
 <img src="https://img.shields.io/badge/☾-8e7cc2?style=flat-square&labelColor=0d1117"/> Powered by curiosity and too much debugging  
 
-<img src="https://img.shields.io/badge/▹-9bb7d4?style=flat-square&labelColor=0d1117"/> Reading, coding, and occasionally questioning why the code worked  
+<img src="https://img.shields.io/badge/▹-9bb7d4?style=flat-square&labelColor=0d1117"/> Reading, coding and occasionally questioning why the code worked  
 
 <img src="https://img.shields.io/badge/♫-e6edf3?style=flat-square&labelColor=0d1117"/> Usually somewhere between a playlist and a terminal window  
 
