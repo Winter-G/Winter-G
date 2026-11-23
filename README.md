@@ -134,7 +134,7 @@ A Java-based inventory management application.
 <img src="https://img.shields.io/badge/✦-8e7cc2?style=flat-square&labelColor=0d1117"/> Building quietly. Learning constantly.
 
 ---
-<!-- 
+
 ## GitHub Activity
 
 <p align="center">
@@ -145,7 +145,7 @@ A Java-based inventory management application.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Winter-G&bg_color=0d1117&color=e6edf3&line=8e7cc2&point=9bb7d4&area=true&hide_border=true"/>
 </p>
--->
+
 
 ---
 
